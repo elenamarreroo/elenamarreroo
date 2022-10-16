@@ -1,4 +1,28 @@
-### Hi there 👋
+# Hi, I'm Elena 👋🏽👩🏽‍💻
+
+![Perfil](https://user-images.githubusercontent.com/98991004/196054442-07f68071-43e5-4e5e-a03b-c138a1dc614e.png)
+
+## ✨Welcome to my Github profile!✨
+
+I am a data scientist with a passion for analyzing real data and building predictive models. I love working in teams and creating accessible technology to elevate people. My profile is currently under construction. Some of the topics that I enjoy working with and that I will upload to my profile are:
+
+<p> 
+<img src="https://user-images.githubusercontent.com/98991004/196054789-0d8a3e5a-d074-42ad-a965-4e3882d76a97.gif" align="right" width="500" height="200">
+
+- Machine Learning
+- Deep Learning
+- Natural Language Processing
+- Time Series
+- Data mining
+- Statistics
+- Bayesian models
+</p>
+
+Some tools I enjoy working with are Python, Rstudio, scikit-learn, Tensorflow, RShiny, Dash, SQL, PowerBI. In addition to some Big Data infrastructures such as Hadoop, MapReduce and Spark.
+
+## Find me around the web 🌍:
+
+- Sharing updates on <a href="www.linkedin.com/in/emacas">LinkedIn</a> 💼
 
 <!--
 **elenamarreroo/elenamarreroo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
