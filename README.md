@@ -8,19 +8,15 @@ I am a data scientist with a passion for analyzing real data and building predic
 
 <p> 
 <img src="https://user-images.githubusercontent.com/98991004/196054789-0d8a3e5a-d074-42ad-a965-4e3882d76a97.gif" align="right" width="500" height="200">
-
 - Deep Learning
 - Machine Learning
 - Connectionist models
-
 - Natural Language Processing
 - Time Series
 - Internet of things
-
 - Bayesian models
 - Statistical inference
 - Linear models
-
 </p>
 
 Some tools I enjoy working with are Python, Rstudio, scikit-learn, Tensorflow, RShiny, Dash, SQL, PowerBI. In addition to some Big Data infrastructures such as Hadoop, MapReduce and Spark.
