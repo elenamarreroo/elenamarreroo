@@ -8,8 +8,9 @@ I am a data scientist with a passion for analyzing real data and building predic
 
 <p> 
 <img src="https://user-images.githubusercontent.com/98991004/196054789-0d8a3e5a-d074-42ad-a965-4e3882d76a97.gif" align="right" width="500" height="200">
-- Deep Learning
-- Machine Learning
+
+  - Deep Learning
+  - Machine Learning
 - Connectionist models
 - Natural Language Processing
 - Time Series
