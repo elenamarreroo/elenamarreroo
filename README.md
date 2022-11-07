@@ -40,3 +40,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Elena's GitHub stats](https://github-readme-stats.vercel.app/api?username=elenamarreroo&show_icons=true&theme=omni&title_color=E2CDF8&text_color=242D4E&icon_color=E2CDF8&border_color=8EB4F9&bg_color=5572DF)
+
+
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elenamarreroo)](https://github.com/elenamarreroo/github-readme-stats)
