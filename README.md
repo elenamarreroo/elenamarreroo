@@ -24,7 +24,6 @@ Some tools I enjoy working with are Python, Rstudio, scikit-learn, Tensorflow, R
 ## Find me around the web 🌍:
 
 - Sharing updates on <a href="www.linkedin.com/in/emacas">LinkedIn</a> 💼
-
 <!--
 **elenamarreroo/elenamarreroo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
@@ -37,7 +36,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 ## More info:
 
 ![Elena's GitHub stats](https://github-readme-stats.vercel.app/api?username=elenamarreroo&show_icons=true&theme=omni&title_color=E2CDF8&text_color=242D4E&icon_color=E2CDF8&border_color=8EB4F9&bg_color=5572DF)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elenamarreroo&layout=compact&title_color=E2CDF8&text_color=242D4E&icon_color=E2CDF8&border_color=8EB4F9&bg_color=5572DF)
