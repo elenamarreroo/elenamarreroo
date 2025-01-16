@@ -11,7 +11,7 @@ I am a data scientist with a passion for analyzing real data and building predic
   
   - Deep Learning
   - Machine Learning
-- Connectionist models
+  - Connectionist models
 - Natural Language Processing
 - Time Series
 - Internet of things
