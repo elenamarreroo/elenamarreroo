@@ -1,4 +1,4 @@
-# Hi, I'm Elena 👋🏽👩🏽‍💻
+# Hi, I'm Elena <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">👩🏽‍💻
 
 ![Perfil](https://user-images.githubusercontent.com/98991004/196054442-07f68071-43e5-4e5e-a03b-c138a1dc614e.png)
 
