@@ -40,4 +40,10 @@ Here are some ideas to get you started:
 ## More info:
 ![Elena's GitHub stats](https://github-readme-stats.vercel.app/api?username=elenamarreroo&show_icons=true&theme=omni&title_color=E2CDF8&text_color=242D4E&icon_color=E2CDF8&border_color=8EB4F9&bg_color=5572DF)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elenamarreroo&layout=compact&title_color=E2CDF8&text_color=242D4E&icon_color=E2CDF8&border_color=8EB4F9&bg_color=5572DF)
 -->
+<a href="https://github.com/elenamarreroo/GitHub-Language-Stats">
+<img src="https://github.com/elenamarreroo/GitHub-Language-Stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://github.com/elenamarreroo/GitHub-Language-Stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
+</a>
+
+![Profile Views](https://komarev.com/ghpvc/?username=elenamarreroo)
 
